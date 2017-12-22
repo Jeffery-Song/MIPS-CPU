@@ -1,0 +1,28 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Oct 12 15:28:22 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk_" LOCATE = SITE "V10" LEVEL 1;
+COMP "segslct<0>" LOCATE = SITE "N16" LEVEL 1;
+COMP "segslct<1>" LOCATE = SITE "N15" LEVEL 1;
+COMP "segslct<2>" LOCATE = SITE "P18" LEVEL 1;
+COMP "segslct<3>" LOCATE = SITE "P17" LEVEL 1;
+COMP "rst_n" LOCATE = SITE "T5" LEVEL 1;
+COMP "printhl" LOCATE = SITE "V8" LEVEL 1;
+COMP "swaddr<0>" LOCATE = SITE "T10" LEVEL 1;
+COMP "swaddr<1>" LOCATE = SITE "T9" LEVEL 1;
+COMP "swaddr<2>" LOCATE = SITE "V9" LEVEL 1;
+COMP "swaddr<3>" LOCATE = SITE "M8" LEVEL 1;
+COMP "swaddr<4>" LOCATE = SITE "N8" LEVEL 1;
+COMP "swaddr<5>" LOCATE = SITE "U8" LEVEL 1;
+COMP "printsig<0>" LOCATE = SITE "T17" LEVEL 1;
+COMP "printsig<1>" LOCATE = SITE "T18" LEVEL 1;
+COMP "printsig<2>" LOCATE = SITE "U17" LEVEL 1;
+COMP "printsig<3>" LOCATE = SITE "U18" LEVEL 1;
+COMP "printsig<4>" LOCATE = SITE "M14" LEVEL 1;
+COMP "printsig<5>" LOCATE = SITE "N14" LEVEL 1;
+COMP "printsig<6>" LOCATE = SITE "L14" LEVEL 1;
+COMP "printsig<7>" LOCATE = SITE "M13" LEVEL 1;
+SCHEMATIC END;
+

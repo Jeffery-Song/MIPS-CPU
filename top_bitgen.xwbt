@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\verilog\lab7-restart\top.ncd
+OUTFILE=D:\verilog\lab7-restart\top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=D:\verilog\lab7-restart
+LICENSE=ISE
+USER_INFO=135256_15690819_173552794_661
